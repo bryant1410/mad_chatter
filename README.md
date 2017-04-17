@@ -86,6 +86,6 @@ You can also vote on upcoming features: https://madchatter.uservoice.com
 Please fork and send pull requests! Or submit issues if you have suggestions on how to improve Mad Chatter.
 [![Build Status](https://secure.travis-ci.org/andrewhavens/mad_chatter.png)](http://travis-ci.org/andrewhavens/mad_chatter)
 
-##Copyright
+## Copyright
 
 Created by Andrew Havens and released under the MIT license.
